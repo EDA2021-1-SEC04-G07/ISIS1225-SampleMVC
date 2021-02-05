@@ -28,3 +28,12 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 
+Grupo de trabajo #7 (EDA2021-1-SEC04-G07)
+
+-Esteban Gonzalez Ruales
+    Correo: e.gonzalez5@uniandes.edu.co
+    Código: 202021225
+
+-Angel Abel Arismendy Contreras
+    Correo: a.arismendy@uniandes.edu.co
+    Código: 202020625
